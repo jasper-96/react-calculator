@@ -1,8 +1,7 @@
 version: 1
 frontend:
   phases:
-    test:
-
+    
     preBuild:
       commands:
         - npm install
