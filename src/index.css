@@ -11,7 +11,7 @@ app variables
   --number-key-color: #696969;
   --number-key-color-hover: #3f3f3f;
   --submit-key-color: #d18800;
-  --submit-key-color-hover: #aa6e00;
+  --submit-key-color-hover: #ffc0cb;
 
   /* font */
   --main-font: 'Orbitron', sans-serif;
@@ -54,7 +54,7 @@ app variables
 }
 
 /*
-app CSS reset  
+app CSS reset
 */
 
 body,
